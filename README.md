@@ -145,7 +145,7 @@ A web-based traffic prediction application is developed using Streamlit.
 
 Users can enter traffic parameters and get predicted traffic flow results through the interactive interface.
 
-(Add your Streamlit deployment link here)
+(https://t6dtbpny3tvmnomyhrgrvi.streamlit.app/)
 
 ## 🔮 Future Enhancements
 
