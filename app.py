@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-model = joblib.load("models/traffic_model.pkl")
+model = joblib.load("traffic_model.pkl")
 
 st.set_page_config(
     page_title="Traffic Flow Prediction",
